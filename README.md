@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Week-4-Assignment
+# Getting and Cleaning Data Project
 
 Contains R code, codebook, and tidy data set for the assignment.
 
