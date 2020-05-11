@@ -1,4 +1,4 @@
-# Tidy data set description
+# Tidy set description
 
 ## The variables in the Tidy
 Tidy contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity.
